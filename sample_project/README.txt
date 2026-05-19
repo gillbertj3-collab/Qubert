@@ -1,1 +1,0 @@
-This is a sample ZIP project for Git practice.
